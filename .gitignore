@@ -1,4 +1,4 @@
+.idea
 extractFrame/deal_format.py
 data/UCF-101/*
 checkpoints/*
-.idea/*
