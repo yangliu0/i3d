@@ -1,4 +1,5 @@
 .idea
 extractFrame/deal_format.py
 data/UCF-101/*
-checkpoints/*
+checkpoints/flow*/*
+checkpoints/rgb*/*
